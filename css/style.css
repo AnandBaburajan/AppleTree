@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+main {
+    flex: 1 0 auto;
+}
+.transparentBG {
+  background-color: rgba(0,0,0,0);
+}
+
+.cbox + .label-for-cbox {
+  background-color: white;
+}
+
+.back-home {
+  background: url('https://i.ibb.co/6RnYfH2/7b46c279-19cf-4d67-a23d-d370b76caa90.jpg') center / cover;
+}
+.white-back{
+  background-color: #F2F2F2;
+}
+.cbox:checked ~ div > .recom {
+   background-color: #311B92;
+}
+.flexhaha {
+  display: flex;
+  flew-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.cbox ~ div > .recom {
+   background-color: #212121;
+}
+.head-back{
+  background: linear-gradient(
+          rgba(0, 0, 0, 0.7),
+          rgba(0, 0, 0, 0.7)
+        ), url('https://smashsdgs.me/images/earth-dark.PNG') center / cover;
+  padding-left:20px;
+}
+.dashb{
+  background-color: #311B92;
+  padding-left:20px;
+}
+.index-login
+{
+  background-color: white;
+  border-radius: 30px 30px 0px 0px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.full-btn{
+  width:100%;
+}
+.logo-apple{
+  padding-top: 50px;
+}
