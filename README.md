@@ -1,9 +1,7 @@
 AppleTree
 =================
 
-[![Watch the video](https://raw.githubusercontent.com/AnandBaburajan/AppleTree/master/images/thumb.png)](https://youtu.be/Oxj9s8KG_wA)
-
-[Check out the app](https://smashsdgs.me/AppleTree.apk)
+[![Watch the video](https://raw.githubusercontent.com/AnandBaburajan/AppleTree/master/app/images/thumb.png)](https://youtu.be/Oxj9s8KG_wA)
 
 ---
 
