@@ -1,7 +1,7 @@
 AppleTree
 =================
 
-[![Watch the video](https://raw.githubusercontent.com/AnandBaburajan/AppleTree/master/app/images/thumb.png)](https://youtu.be/Oxj9s8KG_wA)
+[![Watch the video](https://raw.githubusercontent.com/AnandBaburajan/AppleTree/master/app/images/thumb-new.png)](https://youtu.be/Oxj9s8KG_wA)
 
 ---
 
@@ -24,3 +24,5 @@ PHP, JavaScript, Plotly.js, HTML, CSS
 ### Future plans
 
 AppleTree aims to expand the number of actions to other related areas. Together, it will measure the actions taken by an individual or an organisation towards building a sustainable world and assign them credits accordingly. These credits can be used in many ways to gain incentives, for eg. to purchase e-vehicles, to gain academic points, HR credits, etc.
+
+![Screenshots](https://raw.githubusercontent.com/AnandBaburajan/AppleTree/master/app/images/screenshots.png)
